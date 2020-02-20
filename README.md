@@ -33,4 +33,7 @@ The database will be build using PostgreSQL
 	- [ ] Link database to website and company application
 	
 # ER Diagram
-[Imgur](https://imgur.com/a/ETPYX7b)
+![Imgur](https://i.imgur.com/9r9doZl.jpg)
+
+# Reltation Diagram
+![Imgur](https://i.imgur.com/oJxBSrm.jpg)
